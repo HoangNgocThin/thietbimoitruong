@@ -287,7 +287,7 @@ html>/**/body .highslide-gallery ul img {
 /* Styles for the HTML popups											     */
 /* Remove these if you are not using Highslide HTML						     */
 /*****************************************************************************/
-.highslide-main-zone-wrapper {
+.highslide-maincontent {
 	display: none;
 }
 .highslide-html {
@@ -393,7 +393,7 @@ html>/**/body .highslide-gallery ul img {
 .draggable-header .highslide-header .highslide-close span {
 	display: none;
 }
-.draggable-header .highslide-main-zone-wrapper {
+.draggable-header .highslide-maincontent {
 	padding-top: 1em;
 }
 
@@ -428,7 +428,7 @@ html>/**/body .highslide-gallery ul img {
 	z-index: 2;
 	padding: 0 0 0 1em;
 }
-.titlebar .highslide-main-zone-wrapper {
+.titlebar .highslide-maincontent {
 	padding-top: 1em;
 }
 

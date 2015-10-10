@@ -32,7 +32,7 @@
                         </td>
                         <td id="col_right">
                             <div style="padding: 0 10px;">
-                                <asp:ContentPlaceHolder ID="main-zone-wrapper" runat="server" />
+                                <asp:ContentPlaceHolder ID="MainContent" runat="server" />
                             </div>
                         </td>
                     </tr>

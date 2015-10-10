@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="main-zone-wrapper" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="PageName">Sản phẩm</div>
         <table>
     <tr>

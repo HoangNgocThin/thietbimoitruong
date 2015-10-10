@@ -12,7 +12,7 @@
     <%--BOOTSTRAP--%>
     <link rel="stylesheet" href="/Scripts/Bootstrap/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="/Scripts/Bootstrap/css/bootstrap-theme.min.css" type="text/css" />
-
+	
     <link href="App_Themes/Default/global.css" rel="stylesheet" />
     <link href="App_Themes/Default/layout.css" rel="stylesheet" />
     <link href="App_Themes/Default/layout2.css" rel="stylesheet" />
@@ -104,7 +104,7 @@
         <div class="wrapper">
             <div class="head">
 
-                <div class="head-zone">
+                <div class="head_content">
                     <asp:Literal ID="ltrBanner" runat="server"></asp:Literal>
                 </div>
 
@@ -130,7 +130,7 @@
             </div>
             <div class="maincontent">
                 <asp:Literal runat="server" ID="ltrNavContent" />
-                <div class="left-zone">
+                <div class="left_content">
                     <div class="left_box" style="display: none">
                         <div class="left_box_head">
                             <span>Giỏ hàng</span>
@@ -179,7 +179,7 @@
                     </div>
                 </div>
 
-                <div class="main-zone">
+                <div class="right_content">
                     <asp:ContentPlaceHolder ID="MainContent" runat="server">
                     </asp:ContentPlaceHolder>
                 </div>

@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="main-zone-wrapper" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div style="padding: 20px 0px 10px 10px"><asp:Literal runat="server" ID="ltrNavigate" /></div>
     <div class="clear"></div>
     <table style="margin:0px 0px 0px 20px;">

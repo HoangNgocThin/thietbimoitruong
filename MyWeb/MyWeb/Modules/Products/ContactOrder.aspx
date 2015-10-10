@@ -5,7 +5,7 @@
         .txt_long {}
     </style>
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="main-zone-wrapper" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="productList">
         <div class="productList_head">
             <span>Liên hệ đặt hàng</span>
