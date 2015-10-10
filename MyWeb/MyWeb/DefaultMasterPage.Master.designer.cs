@@ -121,13 +121,13 @@ namespace MyWeb {
         protected global::System.Web.UI.WebControls.Label lblCounter;
         
         /// <summary>
-        /// main-zone-wrapper control.
+        /// MainContent control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder main-zone-wrapper;
+        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
         
         /// <summary>
         /// uc_FooterContent1 control.

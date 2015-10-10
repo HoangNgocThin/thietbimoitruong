@@ -102,7 +102,7 @@ ul, li {
     margin: 5px 0px 0px 0px;
 }
 /*left_box*/
-.left_content {
+.left-zone {
     width: 204px;
     float: left;
 }
@@ -176,7 +176,7 @@ ul, li {
             margin-top: 10px;
         }
 
-.right_content {
+.right-zone {
     width: 786px;
     border: 1px;
     float: right;
