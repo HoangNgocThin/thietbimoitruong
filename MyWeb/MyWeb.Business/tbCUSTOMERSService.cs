@@ -1,0 +1,9 @@
+using System;using System.Collections.Generic;using System.Text;using MyWeb.Data;
+using System.Data;namespace MyWeb.Business{	public class tbCUSTOMERSService	{		private static tbCUSTOMERSDAL db = new tbCUSTOMERSDAL();		#region[tbCUSTOMERS_GetById]		public static List<Data.tbCUSTOMERS> tbCUSTOMERS_GetById(string Id)		{			return db.tbCUSTOMERS_GetById(Id);		}		#endregion		#region[tbCUSTOMERS_GetByTop]		public static List<Data.tbCUSTOMERS> tbCUSTOMERS_GetByTop(string Top, string Where, string Order)		{			return db.tbCUSTOMERS_GetByTop(Top, Where, Order);		}		#endregion		#region[tbCUSTOMERS_GetByAll]		public static List<Data.tbCUSTOMERS> tbCUSTOMERS_GetByAll()		{			return db.tbCUSTOMERS_GetByAll();		}		#endregion		#region[tbCUSTOMERS_Paging]		public static List<Data.tbCUSTOMERS> tbCUSTOMERS_Paging(string CurentPage, string PageSize)		{			return db.tbCUSTOMERS_Paging(CurentPage, PageSize);		}		#endregion		#region[tbCUSTOMERS_Insert]		public static bool tbCUSTOMERS_Insert(tbCUSTOMERS data)		{			return db.tbCUSTOMERS_Insert(data);		}		#endregion
+
+        #region[tbCUSTOMERS_Get_Customer_Order]
+        public static List<Data.tbCUSTOMERS> Get_Customer_Order_By_lang()
+        {
+            return db.Get_Customer_Order_By_lang();
+        }
+        #endregion		#region[tbCUSTOMERS_Update]		public static bool tbCUSTOMERS_Update(tbCUSTOMERS data)		{			return db.tbCUSTOMERS_Update(data);		}		#endregion		#region[tbCUSTOMERS_Delete]		public static bool tbCUSTOMERS_Delete(string Id)		{			return db.tbCUSTOMERS_Delete(Id);		}		#endregion	}}

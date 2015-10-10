@@ -1,0 +1,213 @@
+﻿
+.newsDetail_span{
+    height: 29px;
+    /*  background: url(img/bg_product_head.png) no-repeat top left;  */
+	background: #9a120f;
+}
+    .newsDetail_span span {
+        color: white;
+        font-weight: bold;
+        padding-left: 10px;
+        font-size:12px;
+        line-height:30px;
+    }
+
+.newsDetail_head {
+    margin-top:20px;
+}
+
+.newsDetail_head_left {
+    width: 250px;
+    float:left;
+}
+.newsDetail_head_left img {
+    width: 250px;
+}
+.newsDetail_head_right {
+    width: 536px;
+    float: right;
+}
+.newslist_main {
+    border: 1px solid #778;
+    border-radius:0px 0px 10px 10px;
+    padding: 0px 0px 10px 0px;
+}
+.newsDetail_main {
+    margin-top: 20px;
+}
+
+.news_refer {
+    width: 786px;
+    margin: 20px 0px 0px 0px;
+}
+    .news_refer .news_refer_head  {
+        color:wheat;
+    }
+        .news_refer .news_refer_head span {
+            font-weight: bold;
+        }
+    .news_refer .news_refer_main ul li {
+        height: 30px;
+    }
+        .news_refer .news_refer_main ul li a {
+            color: white;
+            display: block;
+            margin-left: 10px;
+            background: url(img/list-star.png) no-repeat 0% 8px;
+            padding: 0px 0px 0px 20px;
+            line-height: 30px;
+        }
+            .news_refer .news_refer_main ul li a:hover {
+                text-decoration: underline;
+            }
+
+
+
+.news_item {
+    padding: 10px 0px 0px 10px;
+    border-bottom: 1px solid #ddd;
+}
+.news_item_last {
+    border-bottom: none !important;
+}
+
+    .news_item .news_item_img {
+        float: left;
+        width: 100px;
+    }
+        .news_item .news_item_img img {
+            width:100px;
+            border:none;
+        }
+
+    .news_item .news_item_name {
+        float: left;
+        width:270px;
+		margin-left: 5px;
+    }
+        .news_item .news_item_name a {
+			font-weight:bold;            
+        }
+            .news_item .news_item_name a:hover {
+                /*color:red;*/
+            }
+        .news_item .news_item_name .dv_p {
+            padding: 10px 0px 0px 10px;
+            color: white;
+        }
+        .news_item .news_item_name .dv_p strong {
+            font-weight: normal !important;
+        }
+
+        
+
+/*Paging*/
+.dv_paging                              {text-align: center; padding-bottom: 10px; padding-top: 20px; font-size: 13px; margin-top: 5px; border-top: 1px dotted #ddd;}
+.dv_paging ul li                        {display: inline; margin-right: 2px;}
+.dv_paging ul li a                      {padding: 2px 10px 2px 10px; font-weight: bold; color: White;background: #b2b2b2;}
+.dv_paging ul li a:active               {background: red;}
+.dv_paging ul li a:hover                {background: red;}
+.dv_paging ul li a.selected             {background: red;}
+.dv_paging ul li a.li_first             {color: Black; font-weight: bold; background: none; margin-right: 5px;}
+.dv_paging ul li a.li_first:hover       {text-decoration: underline;}
+.dv_paging ul li a.li_last              {margin-left: 10px; background: none;} 
+.dv_paging ul li a.li_last              {color: Black; font-weight: bold; background: none; margin-left: 5px;}
+.dv_paging ul li a.li_last:hover        {text-decoration: underline;}
+
+
+.productDetail {
+    margin: 20px 0px 0px 20px;
+}
+
+.productDetail_img {
+    width:300px;
+    float: left;
+}
+    .productDetail_img img {
+        border: none;
+        width: 300px;
+    }
+.productDetail_Detail {
+    width: 450px;
+    float: right;
+}
+    .productDetail_Detail p {
+        line-height: 30px;
+    }
+
+.productDetail_Detail_content {
+    margin: 10px 0px 0px 0px;
+}
+.lnkorder {
+    text-decoration:none;
+    display: block;
+    width: 100px;
+    border: none;
+    font-weight: bold;
+    color: white;
+    height: 30px;
+    background: #1140ac;
+    border-radius:7px;
+    margin-left: 10px;
+}
+
+    .lnkorder:hover {
+        cursor:pointer;
+    }
+
+
+
+/*Đặt hàng*/
+
+.TableOrder {
+    margin: 20px auto;
+    border-top: 1px solid #778 ;
+    border-left: 1px solid #778 ;
+    border-right: 1px solid #778 ;
+    width: 766px;
+}
+.TableOrder .trHeader{
+    background: #ddd;
+    height: 50px;
+    
+}
+.TableOrder .trHeader th {
+    border-bottom: 1px solid #778;
+}
+    .TableOrder .tdright {
+        text-align: center;
+        font-weight:bold;
+        border-right: 1px solid #778;
+    }
+    .TableOrder  .tdfuction {
+        font-weight:bold;
+        text-align:center;
+    }
+    .TableOrder td {
+        border-bottom: 1px solid #778;
+    }
+
+.cssOrder {
+    border: none;
+    background:#1140ac;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    width: 100px;
+    height: 30px;
+    margin-right: 10px;
+}
+    .cssOrder:hover {
+        cursor:pointer;
+        color: yellow;
+        text-decoration:underline;
+    }
+
+
+#dv_contact_order {
+    width: 600px;
+    margin: 50px auto;
+}
+    #dv_contact_order table td {
+        padding: 5px 10px 0px 0px;
+    }

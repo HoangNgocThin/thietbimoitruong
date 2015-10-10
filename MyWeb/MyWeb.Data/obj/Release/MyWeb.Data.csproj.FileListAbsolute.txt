@@ -1,0 +1,64 @@
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.dll
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.pdb
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Data\obj\Release\ResolveAssemblyReference.cache
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.dll
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.Unity.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.Unity.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.csprojResolveAssemblyReference.cache
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.Unity.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.Unity.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.csprojResolveAssemblyReference.cache
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.Unity.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.Unity.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.csprojResolveAssemblyReference.cache
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.pdb
+D:\Project\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.dll
+D:\Project\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.pdb
+D:\Project\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.csprojResolveAssemblyReference.cache
+D:\Project\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.dll
+D:\Project\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.pdb
+D:\Project\MyWeb_edit\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.dll
+D:\Project\MyWeb_edit\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.pdb
+D:\Project\MyWeb_edit\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.dll
+D:\Project\MyWeb_edit\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.pdb
+E:\Project\MyWeb_edit\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.dll
+E:\Project\MyWeb_edit\MyWeb\MyWeb.Data\bin\Release\MyWeb.Data.pdb
+E:\Project\MyWeb_edit\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.csprojResolveAssemblyReference.cache
+E:\Project\MyWeb_edit\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.dll
+E:\Project\MyWeb_edit\MyWeb\MyWeb.Data\obj\Release\MyWeb.Data.pdb

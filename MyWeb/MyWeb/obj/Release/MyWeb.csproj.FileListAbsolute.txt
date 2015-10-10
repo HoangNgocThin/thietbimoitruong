@@ -1,0 +1,115 @@
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\MyWeb.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\MyWeb.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\AjaxControlToolkit.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\CKFinder.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\FredCK.FCKeditorV2.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\MyWeb.Business.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\MyWeb.Common.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\MyWeb.Data.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\MyWeb.Business.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\MyWeb.Common.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\MyWeb.Data.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\AjaxControlToolkit.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\ar\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\cs\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\de\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\es\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\fr\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\he\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\hi\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\it\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\ja\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\ko\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\nl\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\pt\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\ru\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\obj\Release\MyWeb.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\obj\Release\MyWeb.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb\obj\Release\MyWeb.csprojResolveAssemblyReference.cache
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\AjaxControlToolkit.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\CKFinder.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\FredCK.FCKeditorV2.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.Business.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.Common.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.Data.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.Business.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.Common.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.Data.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\AjaxControlToolkit.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\ar\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\cs\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\de\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\es\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\fr\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\he\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\hi\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\it\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\ja\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\ko\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\nl\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\pt\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\ru\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\obj\Release\MyWeb.csprojResolveAssemblyReference.cache
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\obj\Release\MyWeb.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb\obj\Release\MyWeb.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\AjaxControlToolkit.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\CKFinder.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\FredCK.FCKeditorV2.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.Business.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.Common.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.Data.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.Business.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.Common.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\MyWeb.Data.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\AjaxControlToolkit.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\ar\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\cs\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\de\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\es\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\fr\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\he\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\hi\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\it\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\ja\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\ko\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\nl\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\pt\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\ru\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\obj\Release\MyWeb.csprojResolveAssemblyReference.cache
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\obj\Release\MyWeb.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb\obj\Release\MyWeb.pdb
+D:\Project\MyWeb\MyWeb\bin\MyWeb.dll
+D:\Project\MyWeb\MyWeb\bin\MyWeb.pdb
+D:\Project\MyWeb\MyWeb\obj\Release\MyWeb.csprojResolveAssemblyReference.cache
+D:\Project\MyWeb\MyWeb\obj\Release\MyWeb.dll
+D:\Project\MyWeb\MyWeb\obj\Release\MyWeb.pdb
+D:\Project\MyWeb_edit\MyWeb\MyWeb\bin\MyWeb.dll
+D:\Project\MyWeb_edit\MyWeb\MyWeb\bin\MyWeb.pdb
+D:\Project\MyWeb_edit\MyWeb\MyWeb\obj\Release\MyWeb.dll
+D:\Project\MyWeb_edit\MyWeb\MyWeb\obj\Release\MyWeb.pdb
+D:\Project\MyWeb_edit\MyWeb\MyWeb\obj\Release\MyWeb.csprojResolveAssemblyReference.cache
+E:\Project\MyWeb_edit\MyWeb\MyWeb\bin\MyWeb.dll.config
+E:\Project\MyWeb_edit\MyWeb\MyWeb\bin\MyWeb.dll
+E:\Project\MyWeb_edit\MyWeb\MyWeb\bin\MyWeb.pdb
+E:\Project\MyWeb_edit\MyWeb\MyWeb\bin\MyWeb.Business.pdb
+E:\Project\MyWeb_edit\MyWeb\MyWeb\bin\MyWeb.Common.pdb
+E:\Project\MyWeb_edit\MyWeb\MyWeb\bin\MyWeb.Data.pdb
+E:\Project\MyWeb_edit\MyWeb\MyWeb\obj\Release\MyWeb.csprojResolveAssemblyReference.cache
+E:\Project\MyWeb_edit\MyWeb\MyWeb\obj\Release\MyWeb.dll
+E:\Project\MyWeb_edit\MyWeb\MyWeb\obj\Release\MyWeb.pdb

@@ -1,0 +1,59 @@
+
+/* CSS Document */
+
+* {
+	
+	margin:0px;	
+}
+
+/* Fix for Google Chrome clipped background bug */
+
+/* Feature section in ZoomEngine page */
+.zoom-section {	
+	clear:both;	
+	margin-top:0px;
+	display:block;
+	float:left;
+	width:410px;
+	
+}
+
+* html .zoom-section { 
+	display:inline;
+	clear:both;
+}
+/* Feature descriptions in ZoomEngine page */
+.zoom-desc {
+	float:left;
+	margin-left:0px;
+	width:90px;
+	margin-bottom:20px;
+	/*
+	height:393px;
+	overflow:scroll;
+	display:block;*/
+}
+.zoom-small-image img
+{
+	width:300px;
+}
+.zoom-small-image {
+	border:1px solid #CCC;
+	float:left;
+	margin-bottom:20px;
+	width:300px;
+}
+.zoom-tiny-image {
+	display:block;
+	clear:left;
+	overflow:hidden;
+	border:1px solid #CCC;
+	margin:2px 0px;
+	width:80px;
+}
+.zoom-tiny-image:hover {
+	border:1px solid #C00;		
+}
+
+
+

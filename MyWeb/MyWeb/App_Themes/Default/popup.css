@@ -1,0 +1,52 @@
+/*----------------------------------------
+Name: popup.css
+Developed by: tuyenht@thienma.vn
+Copyright: http://thienma.vn
+----------------------------------------*/
+
+#PopupBackground { 
+	display:none; 
+	position:fixed;
+	_position:absolute; /* hack for internet explorer 6*/
+	height:100%;
+	width:100%;
+	top:0;
+	left:0;
+	background:#000000;
+	border:1px solid #cecece;
+	z-index:1;
+}
+#popupDiv{
+	display:none;
+	position:fixed;
+	_position:absolute; /* hack for internet explorer 6*/
+	height:450px;
+	width:600px;
+	background:#626262;
+	border:0px solid #666;
+	z-index:2;
+	padding:7px;
+	font-size:13px;
+}
+#popupDiv h1{
+	text-align:left;
+	color:#096;
+	font-size:18px;
+	font-weight:700;
+	border-bottom:1px dotted #CCC;
+	padding-bottom:2px;
+	margin-bottom:20px;
+}
+#popupDivClose{
+	margin-top:-10px;
+	float:right;
+}
+#popupDivClose a{
+	font-size:12px;
+	color:#ffffff;
+	font-weight:700;
+}
+#button{
+	text-align:center;
+	margin:100px;
+}

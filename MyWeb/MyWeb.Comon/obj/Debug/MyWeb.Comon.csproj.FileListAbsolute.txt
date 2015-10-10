@@ -1,0 +1,5 @@
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Comon.dll
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Comon.pdb
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Comon.dll
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Comon.pdb

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<!--Settings-->
+	<globals
+		width="970" height="240" 
+		currentItem="0" radius="0"
+		blurX="10" blurY="10"			
+		cssFile="css/banner.css"
+	>
+		<!--Button-->
+		<button show="true" position="right" width="320" height="59" spacing="1" paddingLeft="1" titleFontSize="12" descriptionFontSize="11">
+			<thumbnail width="60" height="45" borderWidth="2" />
+			<default titleColor="#FEAB00" descriptionColor="#006B99" thumbnailBorderColor="#FFFFFF">
+				<bgColor top="#C0EAFF" bottom="#C0EAFF" />
+			</default>
+			<rollOver titleColor="#006B99" descriptionColor="#FFFFFF" thumbnailBorderColor="#FFFFFF">
+				<bgColor top="#EEAB1C" bottom="#EEAB1C" />
+			</rollOver>	
+			<current titleColor="#006B99" descriptionColor="#FFFFFF" thumbnailBorderColor="#FFFFFF">
+				<bgColor top="#EEAB1C" bottom="#EEAB1C" />
+			</current>					
+		</button>
+		<!--Content-->
+		<content 
+			show="true" hideOnStart="false"
+			bgColor="#000000" bgAlpha="0.6" bgPaddingBottom="0"
+			titleColor="#00CCFF" titleFontSize="16"
+			descriptionColor="#FFFFFF" descriptionFontSize="13"
+		/>
+	</globals>
+	<!--Items-->
+	<item src="/uploads/images/Dichvuhangkhong.jpg" thumb="/uploads/images/thumb/Dichvuhangkhong.jpg" buttonLink="/page/19.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Dịch vụ hàng không</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[ALS thực hiện dịch vụ nhận, trả hàng Hàng không cho Khách hàng tại ICD Mỹ Đình…]]></buttonDescription>
+		<title><![CDATA[<b>Dịch vụ hàng không</b>]]></title>
+		<description><![CDATA[ALS thực hiện dịch vụ nhận, trả hàng Hàng không cho Khách hàng tại ICD Mỹ Đình…]]></description>
+	</item>		
+	<item src="/uploads/images/Dichvukhovan.jpg" thumb="/uploads/images/thumb/Dichvukhovan.jpg" buttonLink="/page/20.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Dịch vụ kho vận</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[ALS cung cấp hệ thống kho bãi tiêu chuẩn, cho thuê kho tại ICD Mỹ Đình và Sân bay quốc tế Nội Bài…]]></buttonDescription>
+		<title><![CDATA[<b>Dịch vụ kho vận</b>]]></title>
+		<description><![CDATA[ALS cung cấp hệ thống kho bãi tiêu chuẩn, cho thuê kho tại ICD Mỹ Đình và Sân bay quốc tế Nội Bài…]]></description>
+	</item>
+	<item src="/uploads/images/khaithueHQ.jpg" thumb="/uploads/images/thumb/khaithueHQ.jpg" buttonLink="/page/21.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Khai thuê hải quan</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[ALS nhận làm thủ tục hải quan, ủy quyền xuất, nhập khẩu, tư vấn…]]></buttonDescription>
+		<title><![CDATA[<b>Khai thuê hải quan</b>]]></title>
+		<description><![CDATA[ALS nhận làm thủ tục hải quan, ủy quyền xuất, nhập khẩu, tư vấn…]]></description>
+	</item>
+	<item src="/uploads/images/chuyenphatnhanh.jpg" thumb="/uploads/images/thumb/chuyenphatnhanh.jpg" buttonLink="/page/22.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Dịch vụ giao nhận & Chuyển phát nhanh</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[ALS thực hiện dịch vụ giao nhận hàng hóa vận chuyển bằng đường hàng không…]]></buttonDescription>
+		<title><![CDATA[<b>Dịch vụ giao nhận & Chuyển phát nhanh</b>]]></title>
+		<description><![CDATA[ALS thực hiện dịch vụ giao nhận hàng hóa vận chuyển bằng đường hàng không…]]></description>
+	</item>
+	<item src="/uploads/images/Quangcao.jpg" thumb="/uploads/images/thumb/Quangcao.jpg" buttonLink="/page/23.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Dịch vụ cho thuê biển quảng cáo</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[ALS cho thuê địa điểm đặt biển quảng cáo tại ICD Mỹ Đình và Sân bay quốc tế Nội Bài]]></buttonDescription>
+		<title><![CDATA[<b>Dịch vụ cho thuê biển quảng cáo</b>]]></title>
+		<description><![CDATA[ALS cho thuê địa điểm đặt biển quảng cáo tại ICD Mỹ Đình và Sân bay quốc tế Nội Bài]]></description>
+	</item>
+	<item src="/uploads/images/dailyphanphoi.jpg" thumb="/uploads/images/thumb/dailyphanphoi.jpg" buttonLink="/page/34.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Đại lý phân phối</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[ALS nhận làm đại lý phân phối sản phẩm cho các doanh nghiệp trong và ngoài nước]]></buttonDescription>
+		<title><![CDATA[<b>Đại lý phân phối</b>]]></title>
+		<description><![CDATA[ALS nhận làm đại lý phân phối sản phẩm cho các doanh nghiệp trong và ngoài nước]]></description>
+	</item>
+	<item src="/uploads/images/5.jpg" thumb="/uploads/images/thumb/5.jpg" buttonLink="/page/35.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Liên doanh liên kết</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[Liên doanh với các doanh nghiệp khác đầu tư dự án]]></buttonDescription>
+		<title><![CDATA[<b>Liên doanh liên kết</b>]]></title>
+		<description><![CDATA[Liên doanh với các doanh nghiệp khác đầu tư dự án]]></description>
+	</item>
+</banner>

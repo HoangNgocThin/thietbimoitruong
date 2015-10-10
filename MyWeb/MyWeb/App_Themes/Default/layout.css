@@ -1,0 +1,329 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial;
+    font-size: 12px;
+    background-color: #252525;	
+}
+
+a {
+    text-decoration: none;
+}
+
+ul, li {
+    list-style: none;
+}
+
+.clear {
+    clear: both;
+}
+
+.wrapper {
+    margin: 0px auto;
+    width: 1000px;
+}
+/*Phần header*/
+
+
+/*sidebar*/
+.sidebarmenu ul {
+    width: 204px; /* Main Menu Item widths */
+    background: #273896;
+}
+
+    .sidebarmenu ul li {
+        position: relative;
+        background: #9a120f;
+        border-bottom: 1px solid #fff;
+    }
+
+        .sidebarmenu ul li:last-child {
+            border-bottom: none;
+        }
+        /* Top level menu links style */
+        .sidebarmenu ul li h2 {
+            font-weight: normal;
+        }
+
+        .sidebarmenu ul li a {
+            display: block;
+            overflow: auto; /*force hasLayout in IE7 */
+            font-size: 12px;
+            padding: 6px 6px 6px 20px;
+            color: white;
+        }
+
+            .sidebarmenu ul li a:link, .sidebarmenu ul li a:visited, .sidebarmenu ul li a:active {
+            }
+
+            .sidebarmenu ul li a:visited {
+            }
+
+            .sidebarmenu ul li a:hover {
+                background: #b64541;
+                color: white;
+                text-decoration: none;
+            }
+
+        /*Sub level menu items */
+        .sidebarmenu ul li ul {
+            position: absolute;
+            width: 204px; /*Sub Menu Items width */
+            top: 0;
+            visibility: hidden;
+            z-index: 10000;
+            border: 1px solid #ddd;
+            background: url(img/bg_sidebar_main.png) repeat-y top left;
+        }
+
+            .sidebarmenu ul li ul li {
+            }                
+
+.sidebarmenu a.subfolderstyle {
+    background: url(img/bg_list.png) no-repeat 97% 50%;
+}
+
+
+/* Holly Hack for IE \*/
+* html .sidebarmenu ul li {
+    float: left;
+    height: 1%;
+}
+
+    * html .sidebarmenu ul li a {
+        height: 1%;
+    }
+/* End */
+
+.maincontent {
+    margin: 5px 0px 0px 0px;
+}
+/*left_box*/
+.left_content {
+    width: 204px;
+    float: left;
+}
+
+
+
+
+.left_box .left_box_head {
+    height: 31px;
+    background: #9a120f;
+}
+
+    .left_box .left_box_head span {
+        color: #fff;
+        font-weight: bold;
+        line-height: 30px;
+        padding: 0px 0px 0px 10px;
+    }
+
+.left_box .left_box_head1 {
+    height: 31px;
+    background: #9a120f;
+    border-bottom: solid thin white;
+}
+
+    .left_box .left_box_head1 span {
+        color: #fff;
+        font-weight: bold;
+        line-height: 30px;
+        padding: 0px 0px 0px 10px;
+    }
+
+.left_box .left_box_main {
+    background: url(img/bg_sidebar_main.png) repeat-y top left;
+}
+
+.dv_pr_adv {
+    width: 189px;
+    margin: 0px auto;
+    padding: 10px 0px 0px 0px;
+}
+
+    .dv_pr_adv img {
+        width: 189px;
+        border: none;
+    }
+
+    .dv_pr_adv a {
+        text-align: center;
+        font-weight: bold;
+        color: blue;
+    }
+
+    .dv_pr_adv p {
+        text-align: center;
+    }
+
+
+.dv_advertisment {
+    width: 204px;
+}
+
+    .dv_advertisment ul {
+        width: 204px;
+        text-align: center;
+    }
+
+        .dv_advertisment ul li img {
+            border: none;
+            width: 190px;
+            margin-top: 10px;
+        }
+
+.right_content {
+    width: 786px;
+    border: 1px;
+    float: right;
+}
+
+
+/*Sản phẩm*/
+
+.productList {
+    width: 786px;
+}
+
+    .productList .productList_head {
+        height: 29px;
+        background: url(img/bg_product_head.png) no-repeat top left;
+    }
+
+        .productList .productList_head span {
+            color: white;
+            font-weight: bold;
+            font-size: 12px;
+            padding-left: 10px;
+            line-height: 30px;
+        }
+
+.productlist_main {
+    border: 1px solid #778;
+    border-radius: 0px 0px 10px 10px;
+    padding: 0px 0px 10px 0px;
+    margin-bottom: 10px;
+}
+
+.productRow {
+    padding: 10px 0px 0px 10px;
+}
+
+    .productRow .product {
+        float: left;
+        width: 180px;
+        border: 1px solid #ddd;
+        border-radius: 5px 5px 0px 0px;
+        margin-right: 10px;
+    }
+
+        .productRow .product:hover {
+            border: 1px solid #e86b8d;
+        }
+
+        .productRow .product .p_img {
+            width: 180px;
+            height: 170px;
+            overflow: hidden;
+        }
+
+            .productRow .product .p_img img {
+                border: none;
+                width: 177px;
+                border-radius: 5px 5px 0px 0px;
+            }
+
+        .productRow .product .p_name {
+            height: auto;
+            display: block;
+            overflow: hidden;
+            padding: 10px;
+            text-align: center;
+        }
+
+            .productRow .product .p_name a {                
+                font-weight: bold;
+            }
+
+                .productRow .product .p_name a:hover {                    
+                    color: #e86b8d;
+                }
+
+        .productRow .product .p_price {
+            padding: 0px 10px 10px 10px;
+            font-weight: bold;
+            text-align: center;			
+        }
+
+        .productRow .product .p_cart {
+            padding: 0px 10px 10px 10px;
+            vertical-align: text-bottom;
+        }
+
+            .productRow .product .p_cart .p_cart_a {
+                width: 100px;
+                height: 30px;
+                display: block;
+                margin: 0px auto;
+                background: #1140ac;
+                border-radius: 7px;
+                color: white;
+                font-weight: bold;
+                text-align: center;
+                line-height: 30px;
+            }
+
+                .productRow .product .p_cart .p_cart_a:hover {
+                    color: yellow;
+                    text-decoration: underline;
+                }
+
+.footer {
+    width: 1000px;    
+    overflow: hidden;
+    padding: 20px 0;
+	  background-color: #191919;
+	  color: white;	
+}
+
+    .footer p {
+        text-align: center;
+        font-weight: bold;
+        padding-bottom: 5px;
+    }
+
+    .footer a {
+        color: blue;
+    }
+
+.breadcumb {
+    
+}
+
+    .breadcumb li {
+        display: inline;
+    }
+
+        .breadcumb li a {
+            font-weight: bold;
+            padding: 0px 30px 0px 3px;
+            display: block;
+            background: url(img/bg_nav.png) no-repeat center right;
+            float: left;            
+        }
+
+            .breadcumb li a:hover {
+                text-decoration: underline;
+            }
+
+        .breadcumb li.breadcumb_last {
+            cursor: none;
+        }
+                .breadcumb li.breadcumb_last a:hover {
+                    text-decoration: none !important;
+                    cursor: default;
+                }

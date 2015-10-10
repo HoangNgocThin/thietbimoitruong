@@ -1,0 +1,82 @@
+/*----------------------------------------
+Name: menu.css
+Description: Style for Menu and Submenu
+Developed by: tuyenht@thienma.vn
+Copyright: http://thienma.vn
+----------------------------------------*/
+/*Begin Menu top*/
+.menu-top			{ height:21px; margin-top:-1px; text-align:center; color:#FFFFFF;}
+.menu-top a			{ padding:0 2px; color:#FFFFFF; font-weight:normal; }
+.menu-top a:hover	{ color:#FFFFFF; text-decoration:underline; }
+/*End Menu top*/
+
+/*Begin Menu bottom*/
+.menu-left			{ text-align:left; color:#026d9b; padding-bottom:5px; margin-bottom:7px; background:#f3f3f3;
+    width: 204px;
+}
+.menu-left li		{ border-bottom:1px solid #d5d5d5; padding-left: 10px; height:26px; line-height:26px; }
+.menu-left li:hover { color:#FFFFFF;background:#DDDDDD; font-weight:bold; text-decoration:none; }
+.menu-left a:visited,
+.menu-left a:link	{ background:url(images/icon_subcate.gif) no-repeat left; padding: 0 0 0 10px; font-size:12px; color:#052467; text-decoration:none; }
+.menu-left a.selected,
+.menu-left a:hover	{ color:#FFFFFF;background:#DDDDDD; font-weight:bold; text-decoration:none; }
+
+.menu-right			{ text-align:left; color:#026d9b; padding-bottom:5px; margin-bottom:7px; background:#f3f3f3;}
+.menu-right li		{ border-bottom:1px solid #d5d5d5; padding-left: 10px; height:26px; line-height:26px; }
+.menu-right li:hover { color:#FFFFFF;background:#DDDDDD; font-weight:bold; text-decoration:none; }
+.menu-right a:visited,
+.menu-right a:link	{ background:url(images/icon_subcate.gif) no-repeat left; padding: 0 0 0 10px; font-size:12px; color:#052467; text-decoration:none; }
+.menu-right a.selected,
+.menu-right a:hover	{ color:#FFFFFF;background:#DDDDDD; font-weight:bold; text-decoration:none; }
+/*End Menu bottom*/
+
+/*Begin Menu product*/
+.menu-pro			{ background: #f3f3f3 url(images/head-left.png) no-repeat 0px -28px; text-align: left; color: #006DC4; margin-bottom: 7px; margin-top: -7px; }
+.menu-pro ul		{ margin-top: 1px; border-left: 1px solid #3B90D3; border-right: 1px solid #3B90D3; margin-left: 11px; }
+.menu-pro li		{ background:url(images/bg-menu-pro.gif); padding-left: 10px; height:53px; line-height:51px; margin-bottom:-1px; }
+.menu-pro table		{ margin-top: 1px; border: 1px solid #3B90D3; border-top: none; margin-left: 11px; border-spacing: 0px 0px;}
+.menu-pro td		{ background:url(images/bg-menu-pro.gif); padding-left: 10px; height:52px; margin-bottom:-1px; vertical-align:middle; }
+.menu-pro img		{ float:left; max-width:47px!important; max-height:37px!important; }
+.menu-pro a:visited,
+.menu-pro a:link	{ font-weight:bold; color:#006DC4; text-decoration:none; }
+.menu-pro a.selected,
+.menu-pro a:hover	{ color:#006DC4; text-decoration:underline; }
+/*End Menu product*/
+
+/* Mega Menu Styles */
+.mega-menu 			{  width: 100%;position: relative;height:38px; background:url(images/menu.jpg) repeat-x;}
+.mega-menu ul,
+.mega-menu ul li 	{ list-style: none;}
+.mega-menu ul 		{ position: relative; padding: 0; margin: 0; }
+.mega-menu ul li ul { display: none; }
+.mega-menu .sub 	{ display: none; }
+.mega-menu .sub ul 	{ display: block; }
+.mega-menu li 		{ float: left; margin: 0; padding: 0; font-weight: bold; line-height:33px; }
+.mega-menu li a 	{ float: left; color: #fff;padding:3px 20px 0px 20px; text-decoration: none;background: url(images/menu2.jpg) right no-repeat; }
+.mega-menu li.mega-hover a, 
+.mega-menu li.mega-hover a:hover { background: #DDDDDD; color: #000; }
+.mega-menu li a:hover{ background: #999; color: #000; }
+.mega-menu li .sub-container { position: absolute; }
+.mega-menu li .sub { background: #dfdfdf; padding: 8px; border: 1px solid #ccc; padding-right: 0; }
+.mega-menu li .sub .row { width: 100%; overflow: hidden; clear: both; }
+.mega-menu li .sub li { list-style: none; float: none; width: 170px; font-size: 1em; font-weight: normal; line-height:normal; }
+.mega-menu li .sub li.mega-hdr { margin: 0 10px 0 0; float: left; }
+.mega-menu li .sub li.mega-hdr.last { margin-right: 0; }
+.mega-menu li .sub a { background: none; color: #111; padding: 7px 10px; display: block; float: none; font-size: 12px; text-transform:none; }
+.mega-menu li .sub li.mega-hdr a.mega-hdr-a { padding: 5px 7px; margin-bottom: 0px; font-weight: bold; color: #000000; }
+.mega-menu li .sub li.mega-hdr a.mega-hdr-a:hover { color: #000; }
+.mega-menu .sub li.mega-hdr li a { padding: 4px 5px; font-weight: normal; }
+.mega-menu .sub li.mega-hdr li a:hover { color: #a32403; background: #efefef; }
+.mega-menu .sub ul li { padding-right: 0; padding-left: 7px; }
+.mega-menu li .sub-container.non-mega .sub { padding: 10px; }
+.mega-menu li .sub-container.non-mega li { padding: 0; width: 190px; margin: 0; }
+.mega-menu li .sub-container.non-mega li a { padding: 7px 5px 7px 22px; }
+.mega-menu li .sub-container.non-mega li a:hover { color: #a32403; background: #efefef; }
+.mega-menu li.selected { background: #CCC!important; color: #000!important; }
+
+/*Begin Menu bottom*/
+#menu-bottom		{ background:url(images/bg_menu_bottom.gif); height:33px; line-height:30px; text-align:left; color:#FFFFFF; }
+#menu-bottom a:visited,
+#menu-bottom a:link	{ padding:0 6px; color:#FFFFFF; font-weight:bold; }
+#menu-bottom a:hover{ color:#FFFFFF; text-decoration:none; }
+/*End Menu bottom*/

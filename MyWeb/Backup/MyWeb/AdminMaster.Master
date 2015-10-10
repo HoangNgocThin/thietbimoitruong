@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminMaster.master.cs" Inherits="MyWeb.AdminMaster" %>
+<%@ Register src="Controls/admLeft.ascx" tagname="admLeft" tagprefix="uc1" %>
+<%@ Register src="Controls/admTop.ascx" tagname="admTop" tagprefix="uc2" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Admin Page</title><link href="/App_Themes/admin/layout.css" rel="stylesheet" type="text/css" /><!--[if IE 8]><link href="/App_Themes/admin/styleie8.css" rel="stylesheet" type="text/css" /><![endif]--> <script src="/Scripts/library.full.js" type="text/javascript"></script>
+    <script src="/Scripts/ckfinder/ckfinder.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery-1.4.2.min.js" type="text/javascript"></script>
+    <script src="/scripts/jquery-ui-1.8.9.custom.min.js" type="text/javascript"></script> <link href="/scripts/ui-lightness/jquery-ui-1.8.9.custom.min.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server"/>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="wrapper"><asp:ToolkitScriptManager EnableScriptGlobalization="true" runat="server"/>
+        <div id="header" class="clearfix"><uc2:admTop ID="admTop1" runat="server" /></div>
+        <div id="main" class="clearfix">
+            <table width="100%" border="0" cellspacing="0">
+              <tr>
+                <td id="col_left"><uc1:admLeft ID="admLeft1" runat="server" /></td>
+                <td id="col_right"><div style="padding:0 10px;"><asp:ContentPlaceHolder ID="MainContent" runat="server"/></div></td>
+              </tr>
+            </table>
+        </div>
+    </div>
+    </form>
+    <script type="text/javascript"> function Get(idname) { if (document.getElementById) { return document.getElementById(idname); } else if (document.all) { return document.all[idname]; } else if (document.layers) { return document.layers[idname]; } else { return null; } } function toggleXPMenu(block) { var CloseImage = "/App_Themes/admin/images/closed.gif"; var OpenImage = "/App_Themes/admin/images/open.gif"; var divid = block; var img = "img" + block; if (Get(divid).style.display == "") { Get(divid).style.display = "none"; Get(img).src = OpenImage; return false; } else { Get(divid).style.display = ""; Get(img).src = CloseImage; return false; } }</script><asp:Literal ID="ltrJavaScript" runat="server"></asp:Literal>
+</body>
+</html>

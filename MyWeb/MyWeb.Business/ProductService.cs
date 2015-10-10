@@ -1,0 +1,8 @@
+using System;using System.Collections.Generic;using System.Text;using MyWeb.Data;namespace MyWeb.Business{	public class ProductService	{		private static ProductDAL db = new ProductDAL();		#region[Product_GetById]		public static List<Data.Product> Product_GetById(string Id)		{			return db.Product_GetById(Id);		}		#endregion		#region[Product_GetByTop]		public static List<Data.Product> Product_GetByTop(string Top, string Where, string Order)		{			return db.Product_GetByTop(Top, Where, Order);		}		#endregion		#region[Product_GetByAll]		public static List<Data.Product> Product_GetByAll()		{			return db.Product_GetByAll();		}		#endregion		#region[Product_Paging]		public static List<Data.Product> Product_Paging(string CurentPage, string PageSize)		{			return db.Product_Paging(CurentPage, PageSize);		}		#endregion		#region[Product_Insert]		public static bool Product_Insert(Product data)		{			return db.Product_Insert(data);		}		#endregion
+
+        #region[Product_Paging_Where]
+        public static List<Data.Product> Product_Paging_Where(string CurentPage, string PageSize, string where)
+        {
+            return db.Product_Paging_Where(CurentPage, PageSize,where);
+        }
+        #endregion		#region[Product_Update]		public static bool Product_Update(Product data)		{			return db.Product_Update(data);		}		#endregion		#region[Product_Delete]		public static bool Product_Delete(string Id)		{			return db.Product_Delete(Id);		}		#endregion	}}

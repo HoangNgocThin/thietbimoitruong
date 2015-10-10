@@ -1,0 +1,286 @@
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\bin\Debug\MySql.Data.dll
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\THIENMA\KTTV\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+E:\Project\BachkhoaSoft\www\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+E:\Project\BachkhoaSoft\www\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+E:\Project\BachkhoaSoft\www\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+E:\Project\BachkhoaSoft\www\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+E:\Project\BachkhoaSoft\www\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+E:\Project\BachkhoaSoft\www\MyWeb.Comon\bin\Debug\MySql.Data.dll
+E:\Project\BachkhoaSoft\www\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+E:\Project\BachkhoaSoft\www\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+E:\Project\BachkhoaSoft\www\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\BachkhoaSoft\www\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+E:\Project\BachkhoaSoft\www\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+D:\THIENMA\ALS\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+D:\THIENMA\ALS\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+D:\THIENMA\ALS\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+D:\THIENMA\ALS\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+D:\THIENMA\ALS\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+D:\THIENMA\ALS\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+D:\THIENMA\ALS\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+D:\THIENMA\ALS\MyWeb\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+D:\THIENMA\ALS\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\THIENMA\ALS\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\THIENMA\VMTSteel\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+E:\Project\code_chuan\VMTSTeel_MyWeb\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+E:\Project\code_chuan\VMTSTeel_MyWeb\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+E:\Project\code_chuan\VMTSTeel_MyWeb\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+E:\Project\code_chuan\VMTSTeel_MyWeb\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+E:\Project\code_chuan\VMTSTeel_MyWeb\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+E:\Project\code_chuan\VMTSTeel_MyWeb\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+E:\Project\code_chuan\VMTSTeel_MyWeb\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+E:\Project\code_chuan\VMTSTeel_MyWeb\MyWeb\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\code_chuan\VMTSTeel_MyWeb\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+E:\Project\code_chuan\VMTSTeel_MyWeb\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.dll
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\THIENMA\Products\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.dll
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\ASP2\ThoiTrang\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.dll
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\THIENMA\FASHION\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\Project\Fashion\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\Project\Fashion\MyWeb\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Fashion\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+E:\Project\Fashion\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.dll
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\BachKhoaSoftware\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\admin\fa\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\obj\Debug\ResolveAssemblyReference.cache
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+D:\KienC0908H1\Thuctap\Sản phẩm thuốc\db_ns\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.csprojResolveAssemblyReference.cache
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\Develop\Pagin\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.csprojResolveAssemblyReference.cache
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\Develop\Tinh dầu Cường Hải\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.csprojResolveAssemblyReference.cache
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\Develop\Sắt thép Ngọc\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Common.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\FredCK.FCKeditorV2.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Business.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\MyWeb.Data.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.csprojResolveAssemblyReference.cache
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\Develop\Project\Sắt thép Ngọc\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+D:\Project\MyWeb\BinRef\MyWeb.Common.dll
+D:\Project\MyWeb\BinRef\MyWeb.Common.pdb
+D:\Project\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.csprojResolveAssemblyReference.cache
+D:\Project\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\Project\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb
+D:\Project\MyWeb\MyWeb\bin\MyWeb.Common.dll
+D:\Project\MyWeb\MyWeb\bin\MyWeb.Common.pdb
+D:\Project\MyWeb_edit\MyWeb\MyWeb\bin\MyWeb.Common.dll
+D:\Project\MyWeb_edit\MyWeb\MyWeb\bin\MyWeb.Common.pdb
+D:\Project\MyWeb_edit\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.csprojResolveAssemblyReference.cache
+D:\Project\MyWeb_edit\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.dll
+D:\Project\MyWeb_edit\MyWeb\MyWeb.Comon\obj\Debug\MyWeb.Common.pdb

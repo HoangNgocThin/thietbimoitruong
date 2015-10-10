@@ -1,0 +1,17 @@
+using System;using System.Data;using System.Data.SqlClient;using System.Collections.Generic;namespace MyWeb.Data{	public class tbBill_customers	{		#region[Declare variables]		private string  _billid;		private string  _userid;		private string  _totalmoney;		private string  _idate;		private string  _xdate;		private string  _request;		private string  _typepay;		private string  _state;		private string  _lang;		private string  _show;
+        private string _CustomerName;
+        private string _BirthDate;
+        private string _Mobile;
+        private string _Address;
+        private string _Email;
+		#endregion		#region[Public Properties]		public string billid{ get { return _billid; } set { _billid = value; } }		public string userid{ get { return _userid; } set { _userid = value; } }		public string totalmoney{ get { return _totalmoney; } set { _totalmoney = value; } }		public string idate{ get { return _idate; } set { _idate = value; } }		public string xdate{ get { return _xdate; } set { _xdate = value; } }		public string request{ get { return _request; } set { _request = value; } }		public string typepay{ get { return _typepay; } set { _typepay = value; } }		public string state{ get { return _state; } set { _state = value; } }		public string lang{ get { return _lang; } set { _lang = value; } }		public string show{ get { return _show; } set { _show = value; } }
+        public string CustomerName { get { return _CustomerName; } set { _CustomerName = value; } }
+        public string BirthDate { get { return _BirthDate; } set { _BirthDate = value; } }
+        public string Mobile { get { return _Mobile; } set { _Mobile = value; } }
+        public string Address { get { return _Address; } set { _Address = value; } }
+        public string Email { get { return _Email; } set { _Email = value; } }		#endregion		#region[tbBill_customers IDataReader]		public tbBill_customers tbBill_customersIDataReader(IDataReader dr)		{			Data.tbBill_customers obj = new Data.tbBill_customers();			obj.billid = (dr["billid"] is DBNull) ? string.Empty : dr["billid"].ToString();			obj.userid = (dr["userid"] is DBNull) ? string.Empty : dr["userid"].ToString();			obj.totalmoney = (dr["totalmoney"] is DBNull) ? string.Empty : dr["totalmoney"].ToString();			obj.idate = (dr["idate"] is DBNull) ? string.Empty : dr["idate"].ToString();			obj.xdate = (dr["xdate"] is DBNull) ? string.Empty : dr["xdate"].ToString();			obj.request = (dr["request"] is DBNull) ? string.Empty : dr["request"].ToString();			obj.typepay = (dr["typepay"] is DBNull) ? string.Empty : dr["typepay"].ToString();			obj.state = (dr["state"] is DBNull) ? string.Empty : dr["state"].ToString();			obj.lang = (dr["lang"] is DBNull) ? string.Empty : dr["lang"].ToString();			obj.show = (dr["show"] is DBNull) ? string.Empty : dr["show"].ToString();
+            obj.CustomerName = (dr["CustomerName"] is DBNull) ? string.Empty : dr["CustomerName"].ToString();
+            obj.BirthDate = (dr["BirthDate"] is DBNull) ? string.Empty : dr["BirthDate"].ToString();
+            obj.Mobile = (dr["Mobile"] is DBNull) ? string.Empty : dr["Mobile"].ToString();
+            obj.Address = (dr["Address"] is DBNull) ? string.Empty : dr["Address"].ToString();
+            obj.Email = (dr["Email"] is DBNull) ? string.Empty : dr["Email"].ToString();			return obj;		}		#endregion	}}

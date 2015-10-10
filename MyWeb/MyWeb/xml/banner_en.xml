@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<!--Settings-->
+	<globals
+		width="970" height="240" 
+		currentItem="0" radius="0"
+		blurX="10" blurY="10"			
+		cssFile="css/banner.css"
+	>
+		<!--Button-->
+		<button show="true" position="right" width="320" height="59" spacing="1" paddingLeft="1" titleFontSize="12" descriptionFontSize="11">
+			<thumbnail width="60" height="45" borderWidth="2" />
+			<default titleColor="#FEAB00" descriptionColor="#006B99" thumbnailBorderColor="#FFFFFF">
+				<bgColor top="#C0EAFF" bottom="#C0EAFF" />
+			</default>
+			<rollOver titleColor="#006B99" descriptionColor="#FFFFFF" thumbnailBorderColor="#FFFFFF">
+				<bgColor top="#EEAB1C" bottom="#EEAB1C" />
+			</rollOver>	
+			<current titleColor="#006B99" descriptionColor="#FFFFFF" thumbnailBorderColor="#FFFFFF">
+				<bgColor top="#EEAB1C" bottom="#EEAB1C" />
+			</current>					
+		</button>
+		<!--Content-->
+		<content 
+			show="true" hideOnStart="false"
+			bgColor="#000000" bgAlpha="0.6" bgPaddingBottom="0"
+			titleColor="#00CCFF" titleFontSize="16"
+			descriptionColor="#FFFFFF" descriptionFontSize="13"
+		/>
+	</globals>
+	<!--Items-->
+	<item src="/uploads/images/Dichvuhangkhong.jpg" thumb="/uploads/images/thumb/Dichvuhangkhong.jpg" buttonLink="/page/19.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Aviation Services</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[ALS to perform the services received, send to Customer Airlines in ICD My Dinh…]]></buttonDescription>
+		<title><![CDATA[<b>Aviation Services</b>]]></title>
+		<description><![CDATA[ALS to perform the services received, send to Customer Airlines in ICD My Dinh…]]></description>
+	</item>		
+	<item src="/uploads/images/Dichvukhovan.jpg" thumb="/uploads/images/thumb/Dichvukhovan.jpg" buttonLink="/page/20.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Logistics Services</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[ALS provides standard storage systems, warehouse rental in ICD My Dinh and Noi Bai International Airport ...]]></buttonDescription>
+		<title><![CDATA[<b>Logistics Services</b>]]></title>
+		<description><![CDATA[ALS provides standard storage systems, warehouse rental in ICD My Dinh and Noi Bai International Airport ...]]></description>
+	</item>
+	<item src="/uploads/images/khaithueHQ.jpg" thumb="/uploads/images/thumb/khaithueHQ.jpg" buttonLink="/page/21.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Customs declaration services</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[ALS was accepted as customs procedures, authorize the import, export, consulting ...]]></buttonDescription>
+		<title><![CDATA[<b>Customs declaration services</b>]]></title>
+		<description><![CDATA[ALS was accepted as customs procedures, authorize the import, export, consulting ...]]></description>
+	</item>
+	<item src="/uploads/images/chuyenphatnhanh.jpg" thumb="/uploads/images/thumb/chuyenphatnhanh.jpg" buttonLink="/page/22.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Delivery service and Express</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[ALS to perform the services of freight forwarding by air ...]]></buttonDescription>
+		<title><![CDATA[<b>Delivery service and Express</b>]]></title>
+		<description><![CDATA[ALS to perform the services of freight forwarding by air ...]]></description>
+	</item>
+	<item src="/uploads/images/Quangcao.jpg" thumb="/uploads/images/thumb/Quangcao.jpg" buttonLink="/page/23.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Retal service adverising panel</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[ALS leasing billboard locations in ICD My Dinh and Noi Bai International Airport]]></buttonDescription>
+		<title><![CDATA[<b>Retal service adverising panel</b>]]></title>
+		<description><![CDATA[ALS leasing billboard locations in ICD My Dinh and Noi Bai International Airport]]></description>
+	</item>
+	<item src="/uploads/images/dailyphanphoi.jpg" thumb="/uploads/images/thumb/dailyphanphoi.jpg" buttonLink="/page/34.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Distribution agents</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[ALS receiving agent distributing products for domestic and foreign enterprises]]></buttonDescription>
+		<title><![CDATA[<b>Distribution agents</b>]]></title>
+		<description><![CDATA[ALS receiving agent distributing products for domestic and foreign enterprises]]></description>
+	</item>
+	<item src="/uploads/images/5.jpg" thumb="/uploads/images/thumb/5.jpg" buttonLink="/page/35.aspx" buttonTarget="_self" transition="y" timer="10">
+		<buttonTitle><![CDATA[<b>Joint venture</b>]]></buttonTitle>
+		<buttonDescription><![CDATA[Joint ventures with other firms investment projects]]></buttonDescription>
+		<title><![CDATA[<b>Joint venture</b>]]></title>
+		<description><![CDATA[Joint ventures with other firms investment projects]]></description>
+	</item>
+</banner>

@@ -1,0 +1,138 @@
+body {
+    font-size: 12px !important;
+    background-color: #f7f7f7;	
+	color: black !important;
+}
+
+/* menu*/
+.search-bar {
+    color: white;
+    padding-right: 50px;
+}
+
+.search-button {
+    background: #273896 url('~/../Images/search-button.png') no-repeat left center;
+    padding: 3px 10px;
+}
+
+.search-bar input {
+    line-height: 20px;
+    margin-right: 0;
+    padding: 0px;
+}
+
+
+nav {
+    margin-bottom: 5px;
+}
+
+.nav-bar {
+    background: #9a120f;    
+    line-height: 32px;
+    width: 100%;
+    font-size: 12px !important;
+    padding-left: 10px !important;
+}
+
+    .nav-bar li a {
+        color: white !important;
+    }
+
+    .nav-bar .first-page {
+        background: #273896 url('~/../Images/home.png') no-repeat left center;
+        float: left;
+        padding-left: 20px !important;
+    }
+
+ul#menu {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0 0 5px;
+    padding: 0;
+    text-align: right;
+}
+
+    ul#menu li {
+		  display: inline;
+		  list-style: none;
+		  padding-left: 15px;
+		  border-right: 1px solid #801411;
+		  padding: 8px;
+    }
+	
+    #menu li:first {
+		  background:green;
+    }
+	
+	ul#menu li:hover {
+			background-color: #b64541;
+	}	
+
+        ul#menu li a {
+            background: none;
+            color: #999;
+            text-decoration: none;
+        }
+
+            ul#menu li a:hover {
+                color: #333;
+                text-decoration: none;
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+caption, th, td {
+    text-align: left;
+    font-weight: normal;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: "";
+}
+
+blockquote, q {
+    quotes: "" "";
+}
+/* HTML5 tags */
+header, section, footer,
+aside, nav, article, figure {
+    display: block;
+}
+
+#dev7link {
+    position: absolute;
+    top: 0;
+    left: 50px;
+    background: url(images/dev7logo.png) no-repeat;
+    width: 60px;
+    height: 67px;
+    border: 0;
+    display: block;
+    text-indent: -9999px;
+}
+
+.slider-wrapper {
+    margin: 0px auto;
+}
+
+/*====================*/
+/*=== Other Styles ===*/
+/*====================*/
+.clear {
+    clear: both;
+}

@@ -1,0 +1,17 @@
+#mdd 				{ margin: 0; padding: 0; z-index: 30; background: url(images/menu_bg.png) repeat-x 0px -30px; }
+#mdd li				{ margin: 0; padding: 0; background: url(images/menu_bg.png) repeat-x 0px -30px; list-style: none; float: left; font-weight:bold; line-height: 30px; color: #fff; }
+#mdd li:hover		{ background: url(images/menu_bg.png) repeat-x 0px 0px; }
+#mdd li a:link,
+#mdd li a:visited 	{ display: block; margin: 0 1px 0 0; padding:0 16px;  width: auto; background: url(images/menu_icon.png) no-repeat center top; color: #fff; text-align: center; font-size:12px; text-decoration: none }
+#mdd li a:hover,
+#mdd li:hover a,
+#mdd li.selected a	{ background: url(images/menu_icon_hover.png) no-repeat center top; color:#171717; }
+
+#mdd div 			{ position: absolute; visibility: hidden; margin: 0; padding: 0; background: #006b96; opacity:0.90;  filter:alpha(opacity=90); width:215px; border: 1px solid #FFFFFF; z-index:1000; }
+
+#mdd div a:link,
+#mdd div a:visited	{ position: relative; display: block; margin: 0; padding:0 7px; background: #615d5c; width: auto; white-space: nowrap; line-height: 26px; text-align: left; text-decoration: none; color:#D1D1D1; border-bottom:1px solid #FFFFFF; }
+#mdd div li.selected a,
+#mdd div a:hover	{ background: none; }
+#mdd div a:hover 	{ background: #4d8fc3; color: #fff} 
+#mdd li#date		{ font-weight:normal; float:right; padding-right:10px; }

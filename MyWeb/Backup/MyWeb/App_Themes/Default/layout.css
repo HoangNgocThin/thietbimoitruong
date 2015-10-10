@@ -1,0 +1,125 @@
+*                               {margin: 0px; padding: 0px;}
+body                            {font-family: Arial;background:#ffcaa2}
+a                               {text-decoration: none;}
+ul                              {list-style:none;}
+#wrapper                        {width: 1010px;margin: 0px auto;}
+#header img                     {width: 200px;height: 150px; border: none;float:left;}
+#header img.img_banner          {width: 810px;}
+#header .topbanner              {width: 200px; float: left;}
+#header .topbanner img          {width: 150px; height: 150px;}
+#header .dv_banner_top          {width: 810px; float: right;}
+#header .dv_banner_top img      {width: 810px; height: 150px;}
+#header #topnav                 {width:100%;}
+#banner                         {}
+/*menu top*/
+#topnav ul                      {background: url(img/bg_topnav.png) repeat-x top left; height:38px;}
+#topnav ul li                   {display: inline;}
+#topnav ul li a                 {display: block; float: left; color: White;background: transparent url(img/border_topnav.png) right 50% no-repeat; font-weight: bold; font-size: 12px; padding-right: 15px; padding-left: 15px; height: 38px; line-height: 20px;}
+#topnav ul li a:hover           {text-decoration: underline; color: #f3c435;}
+/*end menu top*/
+
+/*contents*/
+#contents                       {}
+/*left_contents*/
+#left_contents                  {float: left; width:204px; margin-top: 5px;}
+.box_left                       {width: 204px;}
+/*menubar*/
+#left_contents #dv_menubar_left {width:204px;}
+.dv_top                         {width: 204px;height:29px;background: url(img/bg_top.png) no-repeat top left;}
+.dv_top span                    {width: 170px; padding-left: 10px;font-weight: bold; font-size: 12px; color: White;line-height: 29px;}                     
+.dv_middle ul                   {background: url(img/bg_middle.png) repeat-y top left; width: 204px;}
+.dv_middle ul img.img_border    {margin-left: 10px;}
+/*firefox*/
+.dv_middle ul li                {width: 182px; padding-left: 12px; padding-right: 10px; height:25px;}
+/*Ie*/
+.dv_middle ul li                {width: 182px; padding-left: 12px; background:transparent url(img/border_menubar.png) top 50% no-repeat;}
+.dv_middle ul li:first-child    {background: none;}
+.dv_middle ul li:hover          {background: #ddd; }
+.dv_middle ul li:hover a        {color: red;}
+.dv_middle ul li.li_first       {padding-bottom: 20px;}
+.dv_middle ul li img            {width: 6px; padding-right: 5px;}
+.dv_middle ul li a              {color: #062367; line-height: 28px;}
+.dv_middle ul li a span         {font-size: 12px;}
+
+
+/*online support*/
+#dv_topsupport                  {position:relative;}
+#dv_new                         {position:absolute;top:5px;left:120px;}
+#dv_new img                     {width: 33px;}
+.dv_top1                        {width: 204px;height:30px;background: url(img/bg_top1.png) no-repeat top left;}
+.dv_top1 span                   {width: 170px; padding-left: 10px;font-weight: bold; font-size: 12px; color: White;line-height: 29px;}                     
+.dv_middle1                     {background: url(img/bg_middle.png) repeat-y top left; width: 204px;padding-top: 10px;padding-bottom:10px;}
+.dv_middle1 table               {width: 204px;}
+.dv_middle1 table tr td         {padding: 5px 0px 10px 0px;}
+.dv_middle1 .dv_tuvan           {font-size: 12px;}
+.dv_middle1 .dv_tuvan img       {border: none;}
+.dv_middle1 .dv_tuvan a         {font-weight:bold; font-size: 11px;color: Black;}
+.dv_middle1 .dv_tuvan span      {font-size: 12px;color: Red;}
+
+
+/*deliver*/
+#dv_deliver h5                  {padding-left: 10px; padding-top: 5px;}
+#dv_deliver p                   {padding-left: 15px; font-size: 13px; padding-top: 5px;}
+#dv_deliver .h_contents         {color: Red; padding-left: 15px;}
+#dv_search_refer                {margin-top: 20px;}
+#dv_search_refer table          {width: 190px;margin: 0px auto;}
+#dv_search_refer table td .ddl_province         {border: 1px solid #acadb2; width: 160px;}
+#dv_search_refer table td .css_btnsearch        {margin-left: 2px; margin-top: 0px;}
+
+/*website link*/
+#dv_link .dv_link_img table     {width: 190px; margin: 0px auto;}
+#dv_link .dv_link_img table td  {padding: 0px;}
+#dv_link .dv_link_img img       {width: 90px; border: none;}
+
+/*center contents*/
+#center_contents                {float: left;width: 602px; margin-top: 5px;}
+
+/*right_contents*/
+#right_contents                 {float: right;width: 204px; margin-top: 5px;}
+.box_right                      {width:204px;}
+
+/*search key word*/
+.dv_middle2                     {background: url(img/bg_middle1.png) repeat-y top left; width: 204px;padding-top: 10px;padding-bottom:10px;}
+#dv_textbox                     {width: 180px; border: 1px solid #ddd; margin: 10px auto; background: white;margin-bottom: 10px;}
+#dv_textbox #ctl00_My_U_SearchKeyWord1_txtkeyword    {border: 1px solid white; height: 17px;width: 150px;}
+#dv_textbox #ctl00_My_U_SearchKeyWord1_imgbtn        {width: 20px; border: 1px solid;height: 17px;}
+
+/*search price*/
+.dv_top2                        {width: 204px;height:30px;background: url(img/bg_top_right.png) no-repeat top left;}
+.dv_top2 span                   {width: 170px; padding-left: 10px;font-weight: bold; font-size: 12px; color: White;line-height: 29px;}                     
+#dv_list_search                 {font-size: 12px; font-weight: bold;}
+#dv_list_search table           {width: 170px; margin: 0px auto;}
+#dv_list_search table td        {padding-top: 7px;}
+#dv_list_search table td label  {padding-left: 5px;}
+.css_btnsearchprice             {padding: 2px 2px 2px 2px; width: 80px; margin-left: 20px; margin-top: 5px;}
+
+/*promotion*/
+#dv_promotion .dv_km_img        {width: 190px; margin: 0px auto;}
+#dv_promotion .dv_km_img img    {border: 1px solid #ddd; width: 186px; padding: 2px;}
+#dv_promotion .dv_km_price      {text-align: center; font-weight:bold; color: Red; font-size: 13px; padding: 5px 0px 10px 5px;}
+.clear                          {clear: both;}
+
+
+/*advertise right*/
+#dv_image_up                    {height: 600px;}
+#dv_adv .dv_km_img              {width: 190px; margin: 0px auto;}
+#dv_adv .dv_km_img img          {border: 1px solid #ddd; width: 186px; padding: 2px;}
+
+/*advertise left*/
+#dv_adv_left .dv_km_img         {width: 190px; margin: 0px auto;}
+#dv_adv_left .dv_km_img img     {border: 1px solid #ddd; width: 186px; padding: 2px;}
+
+/*Slide*/
+
+#dv_slide                       {width: 588px; margin: 0px auto; display:inherit;}
+#dv_slide #rotator              {width: 588px; margin: 0px auto; position: relative; height:350px;}
+#dv_slide #rotator ul li        {list-style: none; top: 0; left:0; position: absolute;}
+#dv_slide #rotator ul li img    {width: 586px; height: 350px; border: 1px solid white;}
+#dv_slide #rotator ul li.show   {z-index: 500}
+
+/*footer*/
+#footer                         {margin-bottom: 10px; background: #974700 url(img/bg_footer.png) repeat-x top left; color: White; font-size: 13px; height: 95px;}
+#footer #ft_left                {width: 680px; float: left; padding-top: 20px; padding-left: 20px;}
+#footer #ft_left a              {color: White;}
+#footer #ft_left a:hover        {text-decoration: underline;}
+#footer #ft_right               {width: 310px; float:right; padding-top: 20px;}

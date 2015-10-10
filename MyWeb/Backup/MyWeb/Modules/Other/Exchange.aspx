@@ -1,0 +1,2 @@
+﻿<%@ Page Culture="en-US" UICulture="en-US" Language="C#" AutoEventWireup="true" CodeBehind="Exchange.aspx.cs" Inherits="MyWeb.Modules.Other.Exchange" %>
+<div class="forex"><table><tr><th>&nbsp;</th><th>Mua TM</th><th>Mua CK</th><th>Bán</th></tr><asp:Literal ID="ltrCurrency" runat="server"></asp:Literal><tr><td class="source" colspan="4">Nguồn: <b>Vietcombank</b></td></tr></table></div>

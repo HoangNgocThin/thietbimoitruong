@@ -1,0 +1,57 @@
+﻿.float_left {
+    float:left;
+}
+
+.float_right {
+    float:right;
+}
+
+.invisible {
+    display:none;
+}
+
+.text-align-left {
+    text-align:left;
+}
+
+.text-align-right {
+    text-align:right;
+}
+
+.text-align-center {
+    text-align:center;
+}
+
+.padding-right-10 {
+    padding-right:10px;
+}
+
+.visitor-counter {
+    color:black;
+    font-size: 35px;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.subfolderstyle {
+    pointer-events: none;
+}
+
+body {
+    color: black;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #e86b8d;
+}
+
+.clearBoth {
+	clear: both;
+}

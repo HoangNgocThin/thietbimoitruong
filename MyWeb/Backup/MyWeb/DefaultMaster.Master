@@ -1,0 +1,128 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DefaultMaster.master.cs" Inherits="MyWeb.DefaultMaster" %>
+
+<%@ Register src="MyControls/My_U_Top.ascx" tagname="My_U_Top" tagprefix="uc1" %>
+<%@ Register src="MyControls/My_U_Category.ascx" tagname="My_U_Category" tagprefix="uc2" %>
+
+<%@ Register src="MyControls/My_U_TuVan.ascx" tagname="My_U_TuVan" tagprefix="uc3" %>
+
+<%@ Register src="MyControls/My_U_Deliver.ascx" tagname="My_U_Deliver" tagprefix="uc4" %>
+
+<%@ Register src="MyControls/My_U_Link.ascx" tagname="My_U_Link" tagprefix="uc5" %>
+
+<%@ Register src="MyControls/My_U_Left_Adv.ascx" tagname="My_U_Left_Adv" tagprefix="uc6" %>
+
+<%@ Register src="MyControls/My_U_SearchKeyWord.ascx" tagname="My_U_SearchKeyWord" tagprefix="uc7" %>
+
+<%@ Register src="MyControls/My_U_SearchPrice.ascx" tagname="My_U_SearchPrice" tagprefix="uc8" %>
+
+<%@ Register src="MyControls/My_U_Promotional.ascx" tagname="My_U_Promotional" tagprefix="uc9" %>
+
+<%@ Register src="MyControls/My_U_adv.ascx" tagname="My_U_adv" tagprefix="uc10" %>
+
+<%@ Register src="MyControls/My_U_Slide.ascx" tagname="My_U_Slide" tagprefix="uc11" %>
+
+<%@ Register src="MyControls/My_U_Footer.ascx" tagname="My_U_Footer" tagprefix="uc12" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="App_Themes/Default/layout.css" rel="stylesheet" type="text/css" />
+    <link href="App_Themes/Default/MyProduct.css" rel="stylesheet" type="text/css" />
+    <link href="App_Themes/Default/ddlevelsmenu-topbar.css" rel="stylesheet" type="text/css" />
+    <link href="App_Themes/Default/ddlevelsmenu-base.css" rel="stylesheet" type="text/css" />
+    <script src="/Scripts/ddlevelsmenu.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery-1.3.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.dcmegamenu.1.3.2.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery-1.4.1.js" type="text/javascript"></script>
+  
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="wrapper">
+        <div id="header">
+            <div id="topnav_left">
+                <uc1:My_U_Top ID="My_U_Top1" runat="server" />
+            </div>
+            <div id="topnav_right">
+                
+            </div>
+        </div>
+        <div id="contents">
+            <div id="left_contents">
+                <div class="box_left">
+                 <uc2:My_U_Category ID="My_U_Category1" runat="server" />
+                </div>
+                <div class="box_left">
+                
+                    <uc3:My_U_TuVan ID="My_U_TuVan1" runat="server" />
+                
+                </div>
+                <div class="box_left">
+                
+                    <uc4:My_U_Deliver ID="My_U_Deliver1" runat="server" />
+                
+                </div>
+                <div class="box_left">
+                
+                    <uc5:My_U_Link ID="My_U_Link1" runat="server" />
+                
+                </div>
+                <div class="box_left"> 
+                
+                    <uc6:My_U_Left_Adv ID="My_U_Left_Adv1" runat="server" />
+                
+                </div>
+            </div>
+            <div id="center_contents"> 
+                <div id="dv_slide">
+
+                    <uc11:My_U_Slide ID="My_U_Slide1" runat="server" />
+
+                 </div>
+                <asp:ContentPlaceHolder ID="MainContents" runat="server">
+        
+                    <asp:ScriptManager ID="ScriptManager1" runat="server">
+                    </asp:ScriptManager>
+        
+                </asp:ContentPlaceHolder>
+               
+            </div>
+            <div id="right_contents">
+            
+            <div class="box_right">
+                
+                <uc7:My_U_SearchKeyWord ID="My_U_SearchKeyWord1" runat="server" />
+                
+            </div>
+            <div class="box_right">
+                
+                <uc8:My_U_SearchPrice ID="My_U_SearchPrice1" runat="server" />
+                
+            </div>
+            <div class="box_right">
+                
+                <uc9:My_U_Promotional ID="My_U_Promotional1" runat="server" />
+                
+            </div>
+            <div class="box_right">
+                
+                <uc10:My_U_adv ID="My_U_adv1" runat="server" />
+                
+            </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div id="footer">
+        
+            <uc12:My_U_Footer ID="My_U_Footer1" runat="server" />
+        
+        </div>
+        
+    </div>
+    </form>
+</body>
+</html>

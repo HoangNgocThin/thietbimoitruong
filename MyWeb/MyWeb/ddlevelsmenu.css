@@ -1,0 +1,121 @@
+.vlevelmenu ul{
+background: url(images/menu_li_bg.png) repeat-x 0px -30px; min-height:30px; height:auto !important; height:30px; line-height:30px; text-align:left;
+}
+
+.vlevelmenu ul{
+margin: 0; padding:0 0 0 30px;
+list-style-type: none;
+/*border-bottom: 1px solid gray;*/
+/*background: #414141;*/
+overflow: hidden;
+/*width: 100%;*/
+}
+
+.vlevelmenu li{
+display: inline;
+margin: 0;
+padding:0;
+text-align:center;
+background: url(images/menu_split.gif) repeat-x right center;
+}
+
+.vlevelmenu li a{
+float: left;
+display: block;
+margin: 0;
+/*padding: 0 2px 11px 0;*/ /*padding inside each tab*/
+height:30px; 
+line-height:30px;
+width: 115px;
+color: #FFFFFF;
+background: url(images/menu_li_bg.png) repeat-x 0px -30px;
+text-decoration: none;
+font-weight:bold;
+}
+
+.vlevelmenu a:hover{
+background: url(images/menu_li_bg.png) repeat-x 0px 0px; color:#171717; /*background of tabs for hover state */
+}
+
+.vlevelmenu a.selected{
+background: url(images/menu_li_bg.png) repeat-x 0px 0px;  color:#171717; /*background of tab with "selected" class assigned to its LI */
+}
+
+.ddsubmenustyle, .ddsubmenustyle ul{
+margin: 0;
+padding: 0;
+position: absolute;
+left: 0;
+top: 0;
+list-style-type: none;
+font-weight:bold;
+/*background: none;*/
+/*border: 1px solid black;*/
+border-bottom-width: 0;
+visibility: hidden;
+z-index: 100;
+filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='images/75p_honey.png');
+background-image:url(images/75p_honey.png);
+}
+
+.ddsubmenustyle li{
+padding: 0;
+}
+.ddsubmenustyle li img	{ padding:0; margin: 0 0 0 -5px}
+
+.ddsubmenustyle li a{
+display: block;
+width: 220px; /*width of menu (not including side paddings)*/
+color: #676364;
+/*background-color: lightyellow;*/
+text-decoration: none;
+padding: 6px 5px;
+white-space:nowrap;
+/*border-bottom: 1px solid black;*/
+}
+
+* html .ddsubmenustyle li{ /*IE6 CSS hack*/
+display: inline-block;
+width: 170px; /*width of menu (include side paddings of LI A*/
+}
+
+.ddsubmenustyle li a:hover,
+.ddsubmenustyle li:hover a,
+.ddsubmenustyle li:hover li a:hover,
+.ddsubmenustyle li:hover li:hover a,
+.ddsubmenustyle li:hover li:hover li a:hover{
+background: #FFFFFF;
+}
+
+.ddsubmenustyle li:hover li a,
+.ddsubmenustyle li:hover li:hover li a{
+background-image:url(images/75p_honey.png);
+opacity: 0.86;
+filter: alpha(opacity=68);
+}
+
+/* ######### Neutral CSS  ######### */
+
+.downarrowpointer{ /*CSS for "down" arrow image added to top menu items*/
+padding-left: 4px;
+border: 0;
+display:none;
+}
+
+.rightarrowpointer{ /*CSS for "right" arrow image added to drop down menu items*/
+position: absolute;
+padding-top: 3px;
+left: 100px;
+border: 0;
+display:none;
+}
+
+.ddiframeshim{
+position: absolute;
+z-index: 500;
+background: transparent;
+border-width: 0;
+width: 0;
+height: 0;
+display: block;
+}

@@ -1,0 +1,78 @@
+﻿.Library	
+{
+	clear: none;
+	padding: 5px;
+	margin: 5px;
+	float: left;
+	border: #d3d3d3 1px solid;
+	background-color: #FFFFFF;
+	cursor: default;
+	text-align:center;
+	vertical-align:middle;
+}
+
+.Library	
+{
+	clear: none;
+	padding: 5px;
+	margin: 5px 7px 5px 2px;
+	float: left;
+	border: #d3d3d3 1px solid;
+	background-color: #FFFFFF;
+	cursor: default;
+	text-align:center;
+	vertical-align:middle;
+}
+.Library:hover	
+{
+	border: #ff9933 1px solid;
+	background:#fffacd;
+}
+.Library table	
+{
+	text-align:center;
+	vertical-align:middle;
+	padding:0;
+	margin:0;
+	width:145px;
+	height:125px;
+}
+.Library td	
+{
+	text-align:center;
+	vertical-align:middle;
+	font-size:12px;
+}
+.Library img	
+{
+	max-width:135px;
+	max-height:105px;
+	text-align:center;
+	vertical-align:middle;
+}
+.Library .lbrname	
+{
+	margin:0; padding:2px 0; max-width:145px; height:25px; font-size:12px; line-height:normal; font-weight:normal;
+}
+.Library .lbrname a:link, 
+.Library .lbrname a:visited
+{
+	font-size:12px; color:#006b98; font-weight:normal; text-decoration:none;
+}
+.Library .lbrname a:hover
+{
+	text-decoration:underline;
+}
+.Library .lbrdown	
+{
+	margin-top:8px; font-size:12px; line-height:normal; font-weight:bold;
+}
+.Library .lbrdown a:link, 
+.Library .lbrdown a:visited
+{
+	font-size:12px; color:#006b98; font-weight:bold; text-decoration:none;
+}
+.Library .lbrdown a:hover
+{
+	text-decoration:underline;
+}

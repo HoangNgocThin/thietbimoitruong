@@ -1,0 +1,124 @@
+﻿/*Tin trang chu*/
+#news-index			{ padding-left:8px; padding-right:8px; }
+.news-tab li		{ padding-left: 12px; background: url(images/ico-news.gif) no-repeat left; }
+.news-tab li a:visited,
+.news-tab li a:link	{ color:#000000; text-decoration:none; }
+.news-tab li a:hover{ color:#000000; text-decoration:underline; }
+/*Nhom tin va tin theo nhom*/
+#cat-gnews 			{ padding-bottom: 8px; border-bottom: 1px solid #d1d1d1; margin-bottom: 8px; }
+.cat-tabs			{ background: url(images/cat-headerbg.png) no-repeat left top; height: 27px; }
+.cat-tabs li 		{ display: inline; line-height: 16px; padding: 2px 7px 0; font-size: 11px; font-weight: bold; }
+.cat-tabs .cat-title{ background: url(images/cat-title.png) no-repeat right top; padding: 4px 22px 6px 5px; line-height: 22px; margin-left: 2px; text-transform:uppercase; }
+.cat-tabs .cat-title a{color: #FFFFFF; }
+.cat-morenews		{ width:570px; }
+.cat-morenews a		{ color:#0081d8; }
+.cat-morenews ul 	{ padding:2px 6px; }
+.cat-morenews ul li { background:url(images/cat-morenewsli.png) no-repeat left 6px; padding-left: 12px; }
+/*Tin theo nhom*/
+/*.new_boder			{ width:101%; max-width:736px; padding:0 6px; }*/
+.cat-news 			{ float:left; width:48%; padding:0 7px; margin-top: 8px; text-align:justify; height:155px; overflow:hidden; border-bottom:1px solid #e0e0e0; }
+.news-search		{ margin-top: 8px; text-align:right; padding:10px 0px; clear:both; }
+.cat-news img		{ float:left; margin-right:8px; margin-top:2px; border: 1px solid #cccccc; max-width:110px; }
+.news-more 			{ float: right; padding: 5px 5px 1px 16px; background:url(images/news-more.gif) no-repeat right 68%; } 
+.news-more a:visited,
+.news-more a:link  { margin-right:5px; font-size:11px; color: #999999; text-decoration: none!important; } 
+.news-more a:hover { color: #999999; text-decoration: none!important; } 
+
+/*Tin theo nhom*/
+.cat-pro 			{ float:left; width:48%; padding:0 7px; margin-top: 8px; text-align:justify; height:105px; overflow:hidden; border-bottom:1px solid #e0e0e0; }
+.cat-pro img		{ float:left; margin-right:8px; margin-top:2px; border: 1px solid #cccccc; max-width:110px; }
+.pro-more 			{ float: right; padding: 5px 5px 1px 16px; background:url(images/news-more.gif) no-repeat right 68%; } 
+.pro-more a:visited,
+.pro-more a:link  { margin-right:5px; font-size:11px; color: #999999; text-decoration: none!important; } 
+.pro-more a:hover { color: #999999; text-decoration: none!important; } 
+
+/*INDEX*/ 
+.new-index			{ width:101%; border-spacing:4px; clear:both; margin-left:-3px; }
+.new-index img		{ max-width:85px; }
+.new-index td		{ border:1px solid #ebebeb; vertical-align:top; width:50%; }
+.new-index .icon h4 { background:url(images/icon_news.gif) no-repeat left 6px; padding-left:12px; white-space: nowrap; }
+.new-index .cat-news{ border-bottom:1px dotted #E4E4E4; width:96%; height:auto; margin:3px 7px; padding:0; min-height: 75px; }
+.new-index h3		{ margin:0; text-align:center; font-size:110%; text-transform:uppercase; background:url(images/group_news_bg.gif) repeat-x; height:35px; line-height:35px; }
+.new-index .last	{ border-bottom:none; }
+
+
+/*Tin 2 cot*/
+/*.cat-news 			{ float:left; width: 405px;}
+.cat-morenews 		{ float:left; width:160px; }
+.news-more			{ display:none; }*/
+/*Trang tin*/
+#news 				{ padding-bottom: 8px;  margin-bottom: 8px; }
+#news h2 			{ float:left; display:block; margin-bottom:15px; padding:2px 10px; text-transform:uppercase; background:#FFFFFF; color:#ff6600 }
+#news h3 			{ clear:both; font-size:12px; }
+.news-print			{ width:270px; float:right; text-align:right; }
+.news-print a		{ padding:0 3px; font-size:12px; color:#000000; text-decoration:none; }
+.news-print a:hover { text-decoration:none; }
+.news-date	 		{ text-align: right; font-size: 11px; color: #999999; border-bottom: 1px dotted #d1d1d1; }
+.news-intro			{ text-align:justify; }
+.news-content		{ margin:10px 0; }
+.news-content p,
+.news-content div	{ margin:7px 0; }
+.news-content img	{ text-align:center; }
+.news-back			{ font-size:12px; font-weight:bold; text-align:right; }
+.news-back a		{ color:#87b900; padding:0 2px; }
+
+/*Cac tin moi*/
+.news-related		{ background:url(images/news-related.png) repeat-x left top; margin-top: 11px; }
+.news-related a		{ color:#4f89d2; }
+.news-related h3 	{ padding: 4px; font-size: 12px; color: #000000;  }
+.news-related ul 	{ padding: 0 10px; }
+.news-related ul li { background: url(images/news-related-ul-li.png) no-repeat left 7px; padding: 1px 0 1px 10px; }
+.news-related .new a{ padding-right: 36px; background: url(images/new.png) no-repeat right top; }
+
+/*Cac tin da dang*/
+.news-other  		{ margin-top: 26px; background: url(images/news-other.png) repeat-x left top; }
+.news-other a		{ color:#4f89d2; }
+.news-other h3 		{ padding: 4px; font-size: 12px; color: #004175; }
+.news-other ul 		{ padding: 4px 0 15px 10px; }
+.news-other ul li 	{ background: url(images/news-other-ul-li.png) no-repeat left 7px; padding: 1px 0 1px 10px}
+
+/*Van ban*/
+.title					{text-align: center; font-family: Arial; font-size: 12pt; font-weight: bold; margin: 10px}
+.coleftdoctype			{text-align: right; padding-right: 3px; width: 30%}
+.corightdoctype			{text-align: left; padding-left: 3px; width: 70%}
+.doctypelable			{font-family: Arial; font-size: 10pt; color: Black}
+.doctypeDrop			{font-family: Arial; font-size: 10pt; width: 250px; margin: 1px}
+.doctypetext			{font-family: Arial; font-size: 10pt; width: 241px; text-align: left; padding-left: 5px; margin: 1px}
+.doctypetextdate		{font-family: Arial; font-size: 10pt; width: 120px; text-align: right; padding-right: 5px; margin: 1px}
+.icodate				{background: url(images/ico-date.gif); width: 22px; height: 19px; padding: 3px 9px 2px 9px}
+.buttomdoc				{padding: 3px 5px 3px 5px; font-family: Arial; font-size: 10pt}
+.headdoc				{text-align: left; font-family: Arial; font-size: 11pt; font-weight: bold; margin-top: 20px; padding-left: 5px; color: #2b2b2b}
+.tabledoc				{width: 100%; border: 0px; border-collapse: collapse}
+.coluCreteDatehead		{text-align: center; width: 20%; color: #585a58; background: #abd7ff; font-weight: bold; height: 25px; border-top: 3px solid #0954c2}
+.coluEffectiveDatehead	{text-align: center; width: 20%; color: #585a58; background: #abd7ff; font-weight: bold; height: 25px; border-top: 3px solid #0954c2}
+.coluNameDochead		{text-align: center; width: 60%; color: #585a58; background: #abd7ff; font-weight: bold; height: 25px; border-top: 3px solid #0954c2}
+.coluCreteDate			{text-align: center; width: 20%; padding: 5px 0px 5px 0px;}
+.coluCreteDate a		{color: Black; text-decoration: none}
+.coluCreteDate a:hover	{color: Red; text-decoration: underline}
+.coluEffectiveDate		{text-align: center; width: 20%; padding: 5px 0px 5px 0px;}
+.coluEffectiveDate a	{color: Black; text-decoration: none}
+.coluEffectiveDate a:hover{color: Red; text-decoration: underline}
+.coluNameDoc			{text-align: left; width: 60%; padding: 5px 0px 5px 5px}
+.coluNameDoc a	{color: Black; text-decoration: none}
+.coluNameDoc a:hover{color: Red; text-decoration: underline}
+
+/*Chi tiet van ban*/
+.headdetaildoc			{border-bottom: 2px solid #0954c2; width: 98%; font-family: Arial; font-size: 12pt; font-weight: bold; margin: 10px; padding-left: 5px}
+.tabledocdetail			{width: 100%; border: 1px solid #7994cb; border-collapse: collapse; margin: 10px}
+.coluleftdocdetail		{width: 20%; border: 1px solid #7994cb; padding: 2px 5px 2px 5px; font-family: Tahoma}
+.colurightdocdetail		{width: 80%; border: 1px solid #7994cb; padding: 2px 5px 2px 5px; font-family: Tahoma}
+.filedinhkem			{background: url(images/head-detail-doc.gif) no-repeat; padding-left: 17px; margin-left: 10px; font-weight: bold; margin-bottom: 3px}
+.filedoc				{background: url(images/ico-file.gif) no-repeat left 7px; padding-left: 8px; margin-left: 10px; float: left}
+.filedoc a				{font-family: Tahoma; font-size: 9pt; color: #0000ac; text-decoration: none}
+.filedoc a:hover		{color: Red; text-decoration: underline}
+.filedownload			{background: url(images/ico-download.gif) no-repeat left 2px; padding-left: 24px; margin-left: 10px; float: left}
+.filedownload a			{font-family: Tahoma; font-size: 9pt; text-decoration: none; font-weight: bold}
+.filedownload a:hover	{color: Red; text-decoration: underline}
+.headdocOther			{background: url(images/head-DocOther.gif) no-repeat; padding-left: 20px; font-weight: bold; width: 600px; margin: 5px 0px 3px 10px}
+.docOther				{background: url(images/ico-docOther.gif) no-repeat left 2px; padding-left: 14px; margin: 5px 0px 3px 20px; width: 100%}
+.docOther a				{font-family: Arial; font-size: 9pt; color: Black; text-decoration: none}
+.docOther a:hover		{color: Red; text-decoration: underline}
+.datedoc				{font-family: Arial; font-size: 8pt; color: #9f9f9f}
+.Linkbutton { background-color: #5FA4FB; border-bottom-left-radius: 3px 3px; border-bottom-right-radius: 3px 3px; border-top-left-radius: 3px 3px; border-top-right-radius: 3px 3px; padding: 3px 10px; }
+.Linkbutton:link,
+.Linkbutton:visited { color:#FFFFFF; font-weight:bold; }
